@@ -13,7 +13,7 @@ public class ReadFile1 {
         
 
 
-        String path = "/Users/nikolasgustavson/city_temperature.csv/";
+        String path = "/Users/thefinnishstranger/city_temperature.csv/";
         String line = "";
 
         try {
